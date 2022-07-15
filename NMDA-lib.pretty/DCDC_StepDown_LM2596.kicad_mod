@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 32465b90-ba75-4117-ab22-cd034ce96342)
   )
-  (fp_text value "DCDC_StepDown_LM2596" (at 20.32 21.59) (layer "F.Fab")
+  (fp_text value "DCDC_StepDown_LM2596" (at 20.32 21.59) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2ba5bf46-06ff-4acb-862a-44a32088d739)
   )

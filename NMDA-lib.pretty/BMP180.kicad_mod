@@ -10,7 +10,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 025e028d-7b2e-4266-b7b4-f5a05d957bf7)
   )
-  (fp_text value "BPM180" (at 3.6 8.5 180) (layer "F.Fab")
+  (fp_text value "BPM180" (at 3.6 8.5 180) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1f7e44e9-610a-4b5d-bc8b-ac24e22d35a3)
   )

@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0896f667-d1f0-4d83-944b-bf570cac9968)
   )
-  (fp_text value "MODULE_ESP32_DEVKIT_V1" (at -0.56 27.36) (layer "F.Fab")
+  (fp_text value "MODULE_ESP32_DEVKIT_V1" (at -0.56 27.36) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d95ccf23-1a0d-4e93-8775-4b1a9eaf821e)
   )

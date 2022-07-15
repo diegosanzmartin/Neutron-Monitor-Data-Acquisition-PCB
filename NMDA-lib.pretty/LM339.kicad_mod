@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 721b195b-36a9-4758-bd5f-c015461143d4)
   )
-  (fp_text value "LM339N" (at 1.875 -11.15 180) (layer "F.Fab")
+  (fp_text value "LM339N" (at 1.875 -11.15 180) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 336a01e0-a376-4337-9834-f75cad450b13)
   )
